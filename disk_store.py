@@ -21,7 +21,6 @@ Typical usage example:
 """
 import os.path
 import time
-import typing
 
 from format import encode_kv, decode_kv, decode_header, HEADER_SIZE
 
